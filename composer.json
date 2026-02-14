@@ -9,13 +9,12 @@
     }
   ],
   "require-dev": {
-    "phpunit/phpunit": "^7.0||^8.0",
-    "fzaninotto/faker": "^1.6",
-    "php-coveralls/php-coveralls": "^2.0"
+    "fakerphp/faker": "^1.23",
+    "phpunit/phpunit": "^9.6"
   },
   "require": {
-    "php": ">=7.2",
-    "divineomega/uxdm": "^4.0.0",
+    "php": "^7.4 || ^8.0",
+    "jord-jd/uxdm": "^5.0",
     "spatie/simple-excel": "^1.1.0"
   },
   "autoload": {
