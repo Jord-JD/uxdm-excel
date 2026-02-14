@@ -1,9 +1,9 @@
 <?php
 
-use DivineOmega\uxdm\Objects\Sources\EloquentSource;
-use DivineOmega\uxdm\Objects\Sources\ExcelSource;
-use DivineOmega\uxdm\TestClasses\SpatieDataTransferObject\UserDTO;
-use DivineOmega\uxdm\TestClasses\SpatieDataTransferObject\UserDTOCollection;
+use JordJD\uxdm\Objects\Sources\EloquentSource;
+use JordJD\uxdm\Objects\Sources\ExcelSource;
+use JordJD\uxdm\TestClasses\SpatieDataTransferObject\UserDTO;
+use JordJD\uxdm\TestClasses\SpatieDataTransferObject\UserDTOCollection;
 use PHPUnit\Framework\TestCase;
 
 final class ExcelSourceTest extends TestCase
