@@ -1,8 +1,8 @@
 # :twisted_rightwards_arrows: UXDM Excel
 
-[![Build Status](https://travis-ci.com/DivineOmega/uxdm-excel.svg?branch=master)](https://travis-ci.com/DivineOmega/uxdm-excel)
+[![Build Status](https://travis-ci.com/Jord-JD/uxdm-excel.svg?branch=master)](https://travis-ci.com/Jord-JD/uxdm-excel)
 
-This package provides Microsoft Excel source and destination objects for the [UXDM data migrator](https://github.com/DivineOmega/uxdm).
+This package provides Microsoft Excel source and destination objects for the [UXDM data migrator](https://github.com/Jord-JD/uxdm).
 
 ## Installation
 
@@ -10,7 +10,7 @@ To install the UXDM Excel package, just run the following composer
 command.
 
 ```bash
-composer require divineomega/uxdm-excel
+composer require jord-jd/uxdm-excel
 ```
 
 # UXDM Excel Source
